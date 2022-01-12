@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @go-compile
 - 💻 Languages; Go, JavaScript/Typescript, PHP, Rust, Dart, .NET, HTML, CSS, SASS, SQL, 
 - 🧬 Core interests; Cryptography, InfoSec
+- 🔑 PGP Key: [628B:769B:FD00:7F82:33FD:AD18:53F4:922E:9D54:97B8](https://github.com/go-compile/public-key)
