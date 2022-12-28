@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @go-compile
+- 👋 Hi, I'm @go-compile
 - 💻 Languages: Go, JavaScript/Typescript, PHP, Rust, Dart, .NET, HTML, CSS, SASS, SQL
 - 🧬 Core interests: Cryptography, InfoSec
 - ⏳ Started programing & infosec research in **2014**
@@ -34,4 +34,3 @@
 ![Adobe](https://img.shields.io/badge/Adobe-D9CAB3?style=for-the-badge&logo=adobe&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-70C1B3?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQlite-EF6F6C?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQlite-D9CAB3?style=for-the-badge&logo=aes&logoColor=white)
